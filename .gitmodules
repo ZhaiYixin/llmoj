@@ -1,0 +1,6 @@
+[submodule "llmoj-api"]
+	path = llmoj-api
+	url = https://github.com/ZhaiYixin/llmoj-api
+[submodule "llmoj-web"]
+	path = llmoj-web
+	url = https://github.com/ZhaiYixin/llmoj-web
