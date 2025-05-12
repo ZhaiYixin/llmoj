@@ -8,11 +8,11 @@
 
 ### 学生端：
 
-[![学生端演示视频](docs\img\student_interface.png)](https://www.bilibili.com/video/BV1VkETzkEhh/)
+[![学生端演示视频](https://github.com/ZhaiYixin/llmoj/blob/master/docs/img/student_interface.png?raw=true)](https://www.bilibili.com/video/BV1VkETzkEhh/)
 
 ### 教师端：
 
-[![教师端演示视频](docs\img\teacher_interface.png)](https://www.bilibili.com/video/BV15kETzkEwy/)
+[![教师端演示视频](https://github.com/ZhaiYixin/llmoj/blob/master/docs/img/teacher_interface.png?raw=true)](https://www.bilibili.com/video/BV15kETzkEwy/)
 
 ## 为什么做这个软件？
 
@@ -26,4 +26,4 @@
 
 `llmoj-web/`是前端，基于Vue3。`llmoj-api/`是后端，基于Django。软件整体架构如下：
 
-![软件整体架构](docs\img\software_architecture.png)
+![软件整体架构](https://github.com/ZhaiYixin/llmoj/blob/master/docs/img/software_architecture.png?raw=true)
